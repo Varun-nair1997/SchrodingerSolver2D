@@ -42,10 +42,10 @@ where α is a step-size parameter.
 
 ## Features
 - Multiple potential types:
-- Cosine lattice
-- Sine lattice
-- Mixed sine/cosine lattices
-- Finite square well
+    - Cosine lattice
+    - Sine lattice
+    - Mixed sine/cosine lattices
+    - Finite square well
 - Computation of multiple eigenstates
 - Energy tracking during convergence
 - 2D visualization of eigenfunctions
