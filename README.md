@@ -95,4 +95,4 @@ For each computed eigenstate, the solver returns:
 - Not optimized for very large grids
 
 
-_This implementation was developed for academic and instructional purposes in computational quantum mechanics during a course on electronic structure methods @ the Max Plank Insittute for Sustainable Materials._
+_This implementation was developed for academic and instructional purposes in computational quantum mechanics during a course on electronic structure methods @ the Max Plank Institute for Sustainable Materials._
